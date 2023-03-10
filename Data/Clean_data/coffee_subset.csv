@@ -1,0 +1,1063 @@
+date,product,product_line,product_type,type,market_size,market,state,marketing,total_expenses,inventory,cogs,margin,sales,profit,difference_between_actual_and_target_profit,target_cogs,target_margin,target_sales,target_profit
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,46,76,503,51,71,122,-5,-35,30,60,90,30
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,17,45,405,52,71,123,26,-24,30,60,90,50
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,13,36,419,43,64,107,28,-22,30,60,90,50
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,Florida,10,21,871,38,56,94,35,-15,40,60,100,50
+Oct-2012,Green Tea,Leaves,Tea,Regular,Major Market,West,California,23,54,650,72,110,182,56,6,20,60,80,50
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Iowa,0,12,430,0,43,43,31,-29,0,60,60,60
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,East,Connecticut,15,43,375,47,64,111,21,-29,30,60,90,50
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Oklahoma,7,18,859,27,39,66,21,-39,30,60,90,60
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Nevada,9,30,1000,31,37,68,7,-43,30,60,90,50
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Utah,11,22,881,40,59,99,37,-23,20,60,80,60
+Oct-2012,Amaretto,Beans,Coffee,Regular,Small Market,East,New Hampshire,15,38,310,49,71,120,33,-27,30,60,90,60
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,East,New Hampshire,14,45,447,45,69,114,24,-26,30,60,90,50
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,New Hampshire,41,71,320,45,64,109,-7,-37,30,60,90,30
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Louisiana,54,83,-762,60,84,144,1,-9,30,60,90,10
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Nevada,12,45,240,34,43,77,-2,-32,40,60,100,30
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Oregon,20,54,404,54,66,120,12,-28,40,60,100,40
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,41,70,320,45,64,109,-6,-36,20,60,80,30
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,13,25,851,48,70,118,45,-15,30,60,90,60
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,15,38,310,49,71,120,33,-27,30,60,90,60
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,13,24,829,48,71,119,47,-13,30,60,90,60
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,East,Connecticut,11,23,881,40,59,99,36,-14,40,60,100,50
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Oregon,27,59,788,82,123,205,64,14,30,60,90,50
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Oregon,28,51,656,91,127,218,76,26,40,60,100,50
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,South,Texas,13,26,536,40,52,92,26,-14,40,60,100,40
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,South,Texas,14,25,589,50,73,123,48,8,30,60,90,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Colorado,13,25,536,40,52,92,27,-13,30,60,90,40
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Massachusetts,47,76,554,52,68,120,-8,-8,50,60,110,0
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,23,45,1063,75,89,164,44,14,50,60,110,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,14,37,424,46,68,114,31,1,40,60,100,30
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Colorado,20,54,410,55,69,124,15,-5,40,60,100,20
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Illinois,14,25,589,50,73,123,48,8,40,60,100,40
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Colorado,17,39,1042,57,68,125,29,-1,40,60,100,30
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,Massachusetts,10,21,862,36,52,88,31,-9,30,60,90,40
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Missouri,9,21,836,33,48,81,27,-23,40,60,100,50
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Louisiana,8,19,856,31,47,78,28,-22,30,60,90,50
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Oklahoma,10,22,862,36,52,88,30,-10,40,60,100,40
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Louisiana,15,37,454,49,71,120,34,4,30,60,90,30
+Nov-2012,Amaretto,Beans,Coffee,Regular,Small Market,Central,Wisconsin,20,53,391,54,67,121,14,-6,50,60,110,20
+Nov-2012,Amaretto,Beans,Coffee,Regular,Small Market,East,New Hampshire,14,37,316,46,67,113,30,-10,40,60,100,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,East,New Hampshire,14,46,452,43,66,109,20,-10,30,60,90,30
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,New Hampshire,40,70,325,44,62,106,-8,-18,40,60,100,10
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Louisiana,16,39,321,53,88,141,49,19,40,60,100,30
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Washington,20,54,391,54,67,121,13,-7,50,60,110,20
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,20,54,391,54,67,121,13,-7,50,60,110,20
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,14,37,316,46,67,113,30,0,40,60,100,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,14,46,452,43,66,109,20,-10,40,60,100,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,13,24,834,47,68,115,44,4,40,60,100,40
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,East,Connecticut,10,21,809,36,54,90,33,-7,30,60,90,40
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Washington,55,85,613,61,86,147,1,1,40,60,100,0
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,South,Texas,14,26,531,43,56,99,30,-10,50,60,110,40
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,South,Texas,15,27,601,54,79,133,52,12,40,60,100,40
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,42,71,521,47,65,112,-6,-6,40,60,100,0
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,17,44,424,54,73,127,29,-1,50,60,110,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,24,57,403,65,80,145,23,3,40,60,100,20
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,24,46,1079,80,96,176,50,20,60,60,120,30
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,17,45,424,54,73,127,28,-2,50,60,110,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,13,36,435,41,60,101,24,-6,30,60,90,30
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Major Market,West,California,15,26,601,54,79,133,53,3,30,60,90,50
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Missouri,8,19,844,31,46,77,27,-23,30,60,90,50
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Louisiana,9,20,863,34,51,85,31,-19,40,60,100,50
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Oklahoma,9,21,870,33,49,82,28,-22,30,60,90,50
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,East,New Hampshire,15,46,462,48,74,122,28,-2,40,60,100,30
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Louisiana,49,79,-1053,55,76,131,-3,-3,40,60,100,0
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,New Mexico,44,74,335,49,69,118,-5,-15,30,60,90,10
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Nevada,14,48,250,39,49,88,1,-19,40,60,100,20
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,44,74,335,49,69,118,-5,-5,40,60,100,0
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,12,36,320,41,66,107,30,0,30,60,90,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,28,52,1898,92,68,160,16,-4,80,60,140,20
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,25,58,619,68,85,153,27,7,50,60,110,20
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,19,40,1075,63,76,139,36,-4,40,60,100,40
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,28,51,1898,92,68,160,17,-3,80,60,140,20
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Wisconsin,49,79,627,55,76,131,-3,-3,40,60,100,0
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,46,76,503,51,71,130,-7,-37,30,60,90,30
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,17,45,405,52,71,131,39,-11,30,60,90,50
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,13,36,419,43,64,114,42,-8,30,60,90,50
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,Florida,10,21,871,38,56,100,52,2,40,60,100,50
+Oct-2013,Green Tea,Leaves,Tea,Regular,Major Market,West,California,23,54,650,72,110,194,83,33,20,60,80,50
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Iowa,0,12,430,0,43,46,46,-14,0,60,60,60
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,East,Connecticut,15,43,375,47,64,118,31,-19,30,60,90,50
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Oklahoma,7,18,859,27,39,70,31,-29,30,60,90,60
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Nevada,9,30,1000,31,37,72,10,-40,30,60,90,50
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Utah,11,22,881,40,59,106,55,-5,20,60,80,60
+Oct-2013,Amaretto,Beans,Coffee,Regular,Small Market,East,New Hampshire,15,38,310,49,71,128,49,-11,30,60,90,60
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,East,New Hampshire,14,45,447,45,69,121,36,-14,30,60,90,50
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,New Hampshire,41,71,320,45,64,116,-10,-40,30,60,90,30
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Louisiana,54,83,-762,60,84,153,1,-9,30,60,90,10
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Nevada,12,45,240,34,43,82,-3,-33,40,60,100,30
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Oregon,20,54,404,54,66,128,18,-22,40,60,100,40
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,41,70,320,45,64,116,-9,-39,20,60,80,30
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,13,25,851,48,70,126,67,7,30,60,90,60
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,15,38,310,49,71,128,49,-11,30,60,90,60
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,13,24,829,48,71,127,70,10,30,60,90,60
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,East,Connecticut,11,23,881,40,59,106,53,3,40,60,100,50
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Oregon,27,59,788,82,123,218,95,45,30,60,90,50
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Oregon,28,51,656,91,127,232,113,63,40,60,100,50
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,South,Texas,13,26,536,40,52,98,39,-1,40,60,100,40
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,South,Texas,14,25,589,50,73,131,71,31,30,60,90,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Colorado,13,25,536,40,52,98,40,0,30,60,90,40
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Massachusetts,47,76,554,52,68,128,-12,-12,50,60,110,0
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,23,45,1063,75,89,175,65,35,50,60,110,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,14,37,424,46,68,121,46,16,40,60,100,30
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Colorado,20,54,410,55,69,132,22,2,40,60,100,20
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Illinois,14,25,589,50,73,131,71,31,40,60,100,40
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Colorado,17,39,1042,57,68,133,43,13,40,60,100,30
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,Massachusetts,10,21,862,36,52,94,46,6,30,60,90,40
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Missouri,9,21,836,33,48,86,40,-10,40,60,100,50
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Louisiana,8,19,856,31,47,83,42,-8,30,60,90,50
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Oklahoma,10,22,862,36,52,94,45,5,40,60,100,40
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Louisiana,15,37,454,49,71,128,50,20,30,60,90,30
+Nov-2013,Amaretto,Beans,Coffee,Regular,Small Market,Central,Wisconsin,20,53,391,54,67,129,21,1,50,60,110,20
+Nov-2013,Amaretto,Beans,Coffee,Regular,Small Market,East,New Hampshire,14,37,316,46,67,120,45,5,40,60,100,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,East,New Hampshire,14,46,452,43,66,116,30,0,30,60,90,30
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,New Hampshire,40,70,325,44,62,113,-12,-22,40,60,100,10
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Louisiana,16,39,321,53,88,150,73,43,40,60,100,30
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Washington,20,54,391,54,67,129,19,-1,50,60,110,20
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,20,54,391,54,67,129,19,-1,50,60,110,20
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,14,37,316,46,67,120,45,15,40,60,100,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,14,46,452,43,66,116,30,0,40,60,100,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,13,24,834,47,68,123,65,25,40,60,100,40
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,East,Connecticut,10,21,809,36,54,96,49,9,30,60,90,40
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Washington,55,85,613,61,86,157,1,1,40,60,100,0
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,South,Texas,14,26,531,43,56,106,45,5,50,60,110,40
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,South,Texas,15,27,601,54,79,142,77,37,40,60,100,40
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,42,71,521,47,65,119,-9,-9,40,60,100,0
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,17,44,424,54,73,135,43,13,50,60,110,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,24,57,403,65,80,155,34,14,40,60,100,20
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,24,46,1079,80,96,188,74,44,60,60,120,30
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,17,45,424,54,73,135,42,12,50,60,110,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,13,36,435,41,60,108,36,6,30,60,90,30
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Major Market,West,California,15,26,601,54,79,142,79,29,30,60,90,50
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Missouri,8,19,844,31,46,82,40,-10,30,60,90,50
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Louisiana,9,20,863,34,51,91,46,-4,40,60,100,50
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Oklahoma,9,21,870,33,49,87,42,-8,30,60,90,50
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,East,New Hampshire,15,46,462,48,74,130,42,12,40,60,100,30
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Louisiana,49,79,-1053,55,76,140,-4,-4,40,60,100,0
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,New Mexico,44,74,335,49,69,126,-7,-17,30,60,90,10
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Nevada,14,48,250,39,49,94,1,-19,40,60,100,20
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,44,74,335,49,69,126,-7,-7,40,60,100,0
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,12,36,320,41,66,114,45,15,30,60,90,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,28,52,1898,92,68,171,24,4,80,60,140,20
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,25,58,619,68,85,163,40,20,50,60,110,20
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,19,40,1075,63,76,148,53,13,40,60,100,40
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,28,51,1898,92,68,171,25,5,80,60,140,20
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Wisconsin,49,79,627,55,76,140,-4,-4,40,60,100,0
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Colorado,12,24,541,39,51,90,27,-23,30,50,80,50
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,24,46,1055,80,94,174,48,8,40,50,90,40
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Colorado,20,53,404,54,66,120,13,-17,30,50,80,30
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Colorado,16,37,1037,54,64,118,27,-13,30,50,80,40
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,Massachusetts,7,19,859,27,39,66,20,-30,20,50,70,50
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Major Market,West,California,21,32,580,76,111,187,79,29,30,50,80,50
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Wisconsin,7,19,573,22,29,51,10,-40,20,50,70,50
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Iowa,6,17,800,23,35,58,18,-32,20,50,70,50
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,30,64,593,79,98,177,34,4,40,50,90,30
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,20,42,1053,65,77,142,35,-15,30,50,80,50
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Wisconsin,14,37,449,46,67,113,30,-10,20,50,70,40
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Wisconsin,54,84,606,60,84,144,0,0,40,50,90,0
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Washington,18,42,329,60,99,159,57,17,20,50,70,40
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,13,25,536,40,52,92,27,-3,30,50,80,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,10,22,862,36,52,88,30,-10,30,50,80,40
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Massachusetts,20,54,410,55,69,124,15,-5,40,50,90,20
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,West,California,13,25,536,40,52,92,27,-3,30,50,80,30
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,Florida,7,19,875,28,42,70,23,-17,20,50,70,40
+Nov-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,Florida,8,19,856,31,47,78,28,-12,30,50,80,40
+Nov-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,Massachusetts,8,19,482,32,48,80,29,-11,30,50,80,40
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Major Market,West,California,14,26,589,50,73,123,47,7,30,50,80,40
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Iowa,0,12,387,0,43,43,31,-9,0,50,50,40
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,New Mexico,25,48,1804,82,40,122,-8,-18,90,50,140,10
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Iowa,6,18,802,22,34,56,16,-24,20,50,70,40
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,New Mexico,40,69,325,44,62,106,-7,-7,30,50,80,0
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Nevada,12,45,243,33,41,74,-4,-14,30,50,80,10
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,40,70,325,44,62,106,-8,-8,40,50,90,0
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,8,20,856,31,47,78,27,-13,20,50,70,40
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,21,43,1060,69,81,150,38,8,50,50,100,30
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Wisconsin,15,38,454,49,71,120,33,13,40,50,90,20
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Washington,15,37,454,49,71,120,34,4,30,50,80,30
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Colorado,14,27,531,43,56,99,29,-1,40,50,90,30
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Ohio,13,36,435,41,60,101,24,4,40,50,90,20
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Massachusetts,42,72,571,47,52,99,-20,-10,40,50,90,-10
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,14,27,531,43,56,99,29,-1,40,50,90,30
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,West,California,14,27,531,43,56,99,29,-1,40,50,90,30
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Colorado,17,51,422,46,57,103,6,-4,30,50,80,10
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Colorado,16,37,1054,53,63,116,26,6,40,50,90,20
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,Massachusetts,9,20,870,33,49,82,29,-11,30,50,80,40
+Dec-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,Florida,9,21,863,34,51,85,30,-10,30,50,80,40
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Iowa,0,11,344,0,43,43,32,-8,0,50,50,40
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Louisiana,13,36,466,43,63,106,27,7,30,50,80,20
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Nevada,9,30,1009,31,38,69,8,-22,30,50,80,30
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Iowa,6,18,807,23,35,58,17,-23,20,50,70,40
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Louisiana,12,35,320,41,66,107,31,11,30,50,80,20
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Oregon,17,51,422,46,57,103,6,-4,40,50,90,10
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Wisconsin,13,35,466,43,63,106,28,8,30,50,80,20
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,East,Connecticut,9,21,818,33,49,82,28,-12,30,50,80,40
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Utah,44,73,335,49,69,118,-4,-4,30,50,80,0
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Washington,49,79,627,55,76,131,-3,7,40,50,90,-10
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Colorado,12,24,541,39,51,96,40,-10,30,50,80,50
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,24,46,1055,80,94,185,71,31,40,50,90,40
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Colorado,20,53,404,54,66,128,19,-11,30,50,80,30
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Colorado,16,37,1037,54,64,126,40,0,30,50,80,40
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,Massachusetts,7,19,859,27,39,70,30,-20,20,50,70,50
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Major Market,West,California,21,32,580,76,111,199,117,67,30,50,80,50
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Wisconsin,7,19,573,22,29,54,15,-35,20,50,70,50
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Iowa,6,17,800,23,35,62,27,-23,20,50,70,50
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,30,64,593,79,98,189,50,20,40,50,90,30
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,20,42,1053,65,77,151,52,2,30,50,80,50
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Wisconsin,14,37,449,46,67,120,45,5,20,50,70,40
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Wisconsin,54,84,606,60,84,153,0,0,40,50,90,0
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Washington,18,42,329,60,99,169,85,45,20,50,70,40
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,13,25,536,40,52,98,40,10,30,50,80,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,10,22,862,36,52,94,45,5,30,50,80,40
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Massachusetts,20,54,410,55,69,132,22,2,40,50,90,20
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,West,California,13,25,536,40,52,98,40,10,30,50,80,30
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,Florida,7,19,875,28,42,75,34,-6,20,50,70,40
+Nov-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,Florida,8,19,856,31,47,83,42,2,30,50,80,40
+Nov-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,Massachusetts,8,19,482,32,48,85,43,3,30,50,80,40
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Major Market,West,California,14,26,589,50,73,131,70,30,30,50,80,40
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Iowa,0,12,387,0,43,46,46,6,0,50,50,40
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,New Mexico,25,48,1804,82,40,130,-12,-22,90,50,140,10
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Iowa,6,18,802,22,34,60,24,-16,20,50,70,40
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,New Mexico,40,69,325,44,62,113,-10,-10,30,50,80,0
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Nevada,12,45,243,33,41,79,-6,-16,30,50,80,10
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,40,70,325,44,62,113,-12,-12,40,50,90,0
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,8,20,856,31,47,83,40,0,20,50,70,40
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,21,43,1060,69,81,160,56,26,50,50,100,30
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Wisconsin,15,38,454,49,71,128,49,29,40,50,90,20
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Washington,15,37,454,49,71,128,50,20,30,50,80,30
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Colorado,14,27,531,43,56,106,43,13,40,50,90,30
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Ohio,13,36,435,41,60,108,36,16,40,50,90,20
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Massachusetts,42,72,571,47,52,106,-30,-20,40,50,90,-10
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,14,27,531,43,56,106,43,13,40,50,90,30
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,West,California,14,27,531,43,56,106,43,13,40,50,90,30
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Colorado,17,51,422,46,57,110,9,-1,30,50,80,10
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Colorado,16,37,1054,53,63,124,39,19,40,50,90,20
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,Massachusetts,9,20,870,33,49,87,43,3,30,50,80,40
+Dec-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,Florida,9,21,863,34,51,91,45,5,30,50,80,40
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Iowa,0,11,344,0,43,46,47,7,0,50,50,40
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Louisiana,13,36,466,43,63,113,40,20,30,50,80,20
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Nevada,9,30,1009,31,38,74,12,-18,30,50,80,30
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Iowa,6,18,807,23,35,62,25,-15,20,50,70,40
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Louisiana,12,35,320,41,66,114,46,26,30,50,80,20
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Oregon,17,51,422,46,57,110,9,-1,40,50,90,10
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Wisconsin,13,35,466,43,63,113,42,22,30,50,80,20
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,East,Connecticut,9,21,818,33,49,87,42,2,30,50,80,40
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Utah,44,73,335,49,69,126,-6,-6,30,50,80,0
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Washington,49,79,627,55,76,140,-4,6,40,50,90,-10
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,12,24,541,39,51,90,27,-13,20,40,60,40
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,West,California,12,25,541,39,51,90,26,-14,20,40,60,40
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,New Mexico,26,49,1698,86,23,109,-26,-36,110,40,150,10
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Louisiana,14,37,449,46,67,113,30,-10,20,40,60,40
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Iowa,9,30,1000,31,37,68,7,-23,20,40,60,30
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,New Mexico,41,70,320,45,64,109,-6,-16,20,40,60,10
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Utah,8,19,833,32,47,79,28,-12,20,40,60,40
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,9,31,1000,31,37,68,6,-24,10,40,50,30
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Missouri,12,40,244,39,53,92,13,-17,20,40,60,30
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,East,Connecticut,6,18,806,24,36,60,18,-22,20,40,60,40
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,East,New Hampshire,0,11,430,0,43,43,32,-8,0,40,40,40
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Utah,41,70,320,45,64,109,-6,-26,10,40,50,20
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Washington,54,84,606,60,84,144,0,-10,20,40,60,10
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,8,19,482,32,48,80,29,-1,30,40,70,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,20,54,391,54,67,121,13,3,40,40,80,10
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Wisconsin,7,19,570,22,30,52,11,-19,20,40,60,30
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,New Mexico,11,39,248,35,47,82,8,-12,20,40,60,20
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Nevada,8,30,1003,29,35,64,5,-15,30,40,70,20
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Iowa,8,30,1003,29,35,64,5,-15,20,40,60,20
+Nov-2012,Regular Espresso,Beans,Espresso,Regular,Small Market,East,New Hampshire,12,45,211,34,42,76,-3,-3,30,40,70,0
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Oklahoma,8,19,482,32,48,80,29,-1,20,40,60,30
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Nevada,0,12,387,0,43,43,31,1,0,40,40,30
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Utah,9,21,836,33,48,81,27,-3,30,40,70,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,25,49,1804,82,40,122,-9,-9,70,40,110,0
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,25,48,1804,82,40,122,-8,-8,70,40,110,0
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Missouri,11,38,248,35,47,82,9,-1,20,40,60,10
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Missouri,12,45,211,34,42,76,-3,-3,20,40,60,0
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,Central,Missouri,12,45,243,33,41,74,-4,-4,20,40,60,0
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,East,New Hampshire,0,11,387,0,43,43,32,2,0,40,40,30
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Utah,40,69,325,44,62,106,-7,3,30,40,70,-10
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,8,19,490,29,44,73,25,-5,20,40,60,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,9,20,870,33,49,82,29,-1,30,40,70,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Massachusetts,17,50,422,46,57,103,7,-3,30,40,70,10
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,Florida,8,19,882,30,45,75,26,-4,30,40,70,30
+Dec-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,Massachusetts,8,19,490,29,44,73,25,-5,30,40,70,30
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Wisconsin,7,19,567,24,32,56,13,-17,30,40,70,30
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Nevada,0,12,344,0,43,43,31,1,0,40,40,30
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Utah,8,20,844,31,46,77,26,-4,30,40,70,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,9,21,863,34,51,85,30,0,30,40,70,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,New Hampshire,14,47,250,39,49,88,2,-8,20,40,60,10
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,9,31,1009,31,38,69,7,-13,20,40,60,20
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Missouri,12,40,256,38,51,89,11,1,30,40,70,10
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,Central,Missouri,14,47,250,39,49,88,2,2,30,40,70,0
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,East,New Hampshire,0,11,344,0,43,43,32,2,0,40,40,30
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Washington,12,36,320,41,66,107,30,10,30,40,70,20
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Utah,12,39,256,38,51,89,12,2,20,40,60,10
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Washington,13,35,466,43,63,106,28,8,30,40,70,20
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,12,24,541,39,51,96,40,0,20,40,60,40
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,West,California,12,25,541,39,51,96,39,-1,20,40,60,40
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,New Mexico,26,49,1698,86,23,116,-39,-49,110,40,150,10
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Louisiana,14,37,449,46,67,120,45,5,20,40,60,40
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Iowa,9,30,1000,31,37,72,10,-20,20,40,60,30
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,New Mexico,41,70,320,45,64,116,-9,-19,20,40,60,10
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Utah,8,19,833,32,47,84,42,2,20,40,60,40
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,9,31,1000,31,37,72,9,-21,10,40,50,30
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Missouri,12,40,244,39,53,98,19,-11,20,40,60,30
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,East,Connecticut,6,18,806,24,36,64,27,-13,20,40,60,40
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,East,New Hampshire,0,11,430,0,43,46,47,7,0,40,40,40
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Utah,41,70,320,45,64,116,-9,-29,10,40,50,20
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Washington,54,84,606,60,84,153,0,-10,20,40,60,10
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,8,19,482,32,48,85,43,13,30,40,70,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,20,54,391,54,67,129,19,9,40,40,80,10
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Wisconsin,7,19,570,22,30,55,16,-14,20,40,60,30
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,New Mexico,11,39,248,35,47,87,12,-8,20,40,60,20
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Nevada,8,30,1003,29,35,68,7,-13,30,40,70,20
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Iowa,8,30,1003,29,35,68,7,-13,20,40,60,20
+Nov-2013,Regular Espresso,Beans,Espresso,Regular,Small Market,East,New Hampshire,12,45,211,34,42,81,-4,-4,30,40,70,0
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Oklahoma,8,19,482,32,48,85,43,13,20,40,60,30
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Nevada,0,12,387,0,43,46,46,16,0,40,40,30
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Utah,9,21,836,33,48,86,40,10,30,40,70,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,25,49,1804,82,40,130,-13,-13,70,40,110,0
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,25,48,1804,82,40,130,-12,-12,70,40,110,0
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Missouri,11,38,248,35,47,87,13,3,20,40,60,10
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Missouri,12,45,211,34,42,81,-4,-4,20,40,60,0
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,Central,Missouri,12,45,243,33,41,79,-6,-6,20,40,60,0
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,East,New Hampshire,0,11,387,0,43,46,47,17,0,40,40,30
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Utah,40,69,325,44,62,113,-10,0,30,40,70,-10
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,8,19,490,29,44,78,37,7,20,40,60,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,9,20,870,33,49,87,43,13,30,40,70,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Massachusetts,17,50,422,46,57,110,10,0,30,40,70,10
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,Florida,8,19,882,30,45,80,39,9,30,40,70,30
+Dec-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,Massachusetts,8,19,490,29,44,78,37,7,30,40,70,30
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Wisconsin,7,19,567,24,32,60,19,-11,30,40,70,30
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Nevada,0,12,344,0,43,46,46,16,0,40,40,30
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Utah,8,20,844,31,46,82,39,9,30,40,70,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,9,21,863,34,51,91,45,15,30,40,70,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,New Hampshire,14,47,250,39,49,94,3,-7,20,40,60,10
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,9,31,1009,31,38,74,10,-10,20,40,60,20
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Missouri,12,40,256,38,51,95,16,6,30,40,70,10
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,Central,Missouri,14,47,250,39,49,94,3,3,30,40,70,0
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,East,New Hampshire,0,11,344,0,43,46,47,17,0,40,40,30
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Washington,12,36,320,41,66,114,45,25,30,40,70,20
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Utah,12,39,256,38,51,95,18,8,20,40,60,10
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Washington,13,35,466,43,63,113,42,22,30,40,70,20
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Ohio,46,76,503,51,71,122,-5,-35,40,70,110,30
+Oct-2012,Amaretto,Beans,Coffee,Regular,Major Market,Central,Ohio,17,45,405,52,71,123,26,-34,40,70,110,60
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Ohio,13,36,419,43,64,107,28,-32,30,70,100,60
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Massachusetts,46,76,542,51,65,116,-11,-41,30,70,100,30
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Major Market,South,Texas,23,55,-868,72,110,182,55,5,40,70,110,50
+Oct-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,Florida,13,24,851,48,70,118,46,-14,50,70,120,60
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Louisiana,18,41,329,60,99,159,58,-12,30,70,100,70
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Oregon,17,44,405,52,71,123,27,-33,30,70,100,60
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Washington,21,54,385,56,70,126,16,-34,40,70,110,50
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,21,54,385,56,70,126,16,-34,40,70,110,50
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,14,46,447,45,69,114,23,-37,20,70,90,60
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Ohio,47,76,509,52,73,125,-3,-13,50,70,120,10
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Ohio,14,36,424,46,68,114,32,-8,40,70,110,40
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,47,77,509,52,73,125,-4,-14,40,70,110,10
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,19,47,411,59,79,138,32,-8,50,70,120,40
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,19,47,411,59,79,138,32,-8,50,70,120,40
+Nov-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,New York,14,26,589,50,73,123,47,-3,50,70,120,50
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,East,Connecticut,17,45,380,53,71,124,26,-14,50,70,120,40
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Utah,15,26,885,54,78,132,52,2,50,70,120,50
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,South,New Mexico,14,46,452,43,66,109,20,-10,50,70,120,30
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Louisiana,55,85,-906,61,86,147,1,-9,40,70,110,10
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Oregon,20,53,410,55,69,124,16,-14,50,70,120,30
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,31,64,601,82,102,184,38,8,60,70,130,30
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Wisconsin,55,84,613,61,86,147,2,2,50,70,120,0
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Washington,16,39,321,53,88,141,49,-1,30,70,100,50
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Ohio,42,71,521,47,65,112,-6,-16,40,70,110,10
+Dec-2012,Amaretto,Beans,Coffee,Regular,Major Market,Central,Ohio,17,44,424,54,73,127,29,-11,50,70,120,40
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Major Market,South,Texas,22,54,-1239,67,101,168,47,17,50,70,120,30
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Illinois,15,26,601,54,79,133,53,3,40,70,110,50
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Missouri,19,40,1075,63,76,139,36,-4,60,70,130,40
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,East,Connecticut,16,44,392,49,65,114,21,-19,40,70,110,40
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Utah,14,26,898,50,73,123,47,-3,40,70,110,50
+Dec-2012,Amaretto,Beans,Coffee,Regular,Small Market,East,New Hampshire,16,38,327,52,75,127,37,-13,40,70,110,50
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,Connecticut,49,78,627,55,76,131,-2,-12,50,70,120,10
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,New Hampshire,44,73,335,49,69,118,-4,-14,40,70,110,10
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Oregon,13,56,482,41,57,98,1,-19,40,70,110,20
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Oregon,17,45,424,54,73,127,28,-12,50,70,120,40
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,24,58,403,65,80,145,22,2,60,70,130,20
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,16,39,327,52,75,127,36,-4,40,70,110,40
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,15,46,462,48,74,122,28,-12,40,70,110,40
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,13,25,845,49,71,120,46,-4,40,70,110,50
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,East,Connecticut,14,26,898,50,73,123,47,-3,50,70,120,50
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Ohio,46,76,503,51,71,130,-7,-37,40,70,110,30
+Oct-2013,Amaretto,Beans,Coffee,Regular,Major Market,Central,Ohio,17,45,405,52,71,131,39,-21,40,70,110,60
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Ohio,13,36,419,43,64,114,42,-18,30,70,100,60
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Massachusetts,46,76,542,51,65,124,-16,-46,30,70,100,30
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Major Market,South,Texas,23,55,-868,72,110,194,82,32,40,70,110,50
+Oct-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,Florida,13,24,851,48,70,126,68,8,50,70,120,60
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Louisiana,18,41,329,60,99,169,86,16,30,70,100,70
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Oregon,17,44,405,52,71,131,40,-20,30,70,100,60
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Washington,21,54,385,56,70,134,24,-26,40,70,110,50
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,21,54,385,56,70,134,24,-26,40,70,110,50
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,14,46,447,45,69,121,34,-26,20,70,90,60
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Ohio,47,76,509,52,73,133,-4,-14,50,70,120,10
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Ohio,14,36,424,46,68,121,47,7,40,70,110,40
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,47,77,509,52,73,133,-6,-16,40,70,110,10
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,19,47,411,59,79,147,47,7,50,70,120,40
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,19,47,411,59,79,147,47,7,50,70,120,40
+Nov-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,New York,14,26,589,50,73,131,70,20,50,70,120,50
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,East,Connecticut,17,45,380,53,71,132,39,-1,50,70,120,40
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Utah,15,26,885,54,78,141,77,27,50,70,120,50
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,South,New Mexico,14,46,452,43,66,116,30,0,50,70,120,30
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Louisiana,55,85,-906,61,86,157,1,-9,40,70,110,10
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Oregon,20,53,410,55,69,132,24,-6,50,70,120,30
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,Connecticut,31,64,601,82,102,196,56,26,60,70,130,30
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Wisconsin,55,84,613,61,86,157,3,3,50,70,120,0
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Washington,16,39,321,53,88,150,73,23,30,70,100,50
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Ohio,42,71,521,47,65,119,-9,-19,40,70,110,10
+Dec-2013,Amaretto,Beans,Coffee,Regular,Major Market,Central,Ohio,17,44,424,54,73,135,43,3,50,70,120,40
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Major Market,South,Texas,22,54,-1239,67,101,179,70,40,50,70,120,30
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Illinois,15,26,601,54,79,142,79,29,40,70,110,50
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Missouri,19,40,1075,63,76,148,53,13,60,70,130,40
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,East,Connecticut,16,44,392,49,65,121,31,-9,40,70,110,40
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Utah,14,26,898,50,73,131,70,20,40,70,110,50
+Dec-2013,Amaretto,Beans,Coffee,Regular,Small Market,East,New Hampshire,16,38,327,52,75,135,55,5,40,70,110,50
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,Connecticut,49,78,627,55,76,140,-3,-13,50,70,120,10
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,New Hampshire,44,73,335,49,69,126,-6,-16,40,70,110,10
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Oregon,13,56,482,41,57,104,1,-19,40,70,110,20
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Oregon,17,45,424,54,73,135,42,2,50,70,120,40
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,24,58,403,65,80,155,33,13,60,70,130,20
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,16,39,327,52,75,135,53,13,40,70,110,40
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,15,46,462,48,74,130,42,2,40,70,110,40
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,13,25,845,49,71,128,68,18,40,70,110,50
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,East,Connecticut,14,26,898,50,73,131,70,20,50,70,120,50
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,5,16,480,21,32,53,16,-14,0,30,30,30
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,7,19,859,27,39,66,20,-10,10,30,40,30
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,21,54,385,56,70,126,16,-4,30,30,60,20
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Massachusetts,20,53,404,54,66,120,13,-7,30,30,60,20
+Oct-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,Massachusetts,5,17,480,21,32,53,15,-15,20,30,50,30
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,New Mexico,12,39,244,39,53,92,14,-6,20,30,50,20
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Nevada,6,18,800,23,35,58,17,-13,10,30,40,30
+Oct-2012,Amaretto,Beans,Coffee,Regular,Small Market,Central,Iowa,5,16,846,21,31,52,15,-15,10,30,40,30
+Oct-2012,Regular Espresso,Beans,Espresso,Regular,Small Market,East,New Hampshire,9,43,209,25,31,56,-12,-22,10,30,40,10
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Oklahoma,5,17,480,21,32,53,15,-15,0,30,30,30
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Nevada,0,11,430,0,43,43,32,2,0,30,30,30
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,New Hampshire,12,46,240,34,43,77,-3,-23,10,30,40,20
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,5,17,846,21,31,52,14,-16,10,30,40,30
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,7,19,820,25,36,61,17,-13,10,30,40,30
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,Central,Missouri,12,46,240,34,43,77,-3,-13,10,30,40,10
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,East,New Hampshire,5,17,846,21,31,52,14,-16,20,30,50,30
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Utah,12,39,244,39,53,92,14,-6,10,30,40,20
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Washington,14,36,449,46,67,113,31,1,20,30,50,30
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Nevada,6,17,802,22,34,56,17,-3,20,30,50,20
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,New Mexico,12,46,-522,34,42,76,-4,6,20,30,50,-10
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Washington,7,19,570,22,30,52,11,-9,20,30,50,20
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,New Hampshire,12,45,243,33,41,74,-4,-4,20,30,50,0
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,8,30,1003,29,35,64,5,-5,20,30,50,10
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,7,19,823,25,38,63,19,-1,20,30,50,20
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,East,New Hampshire,4,16,848,15,24,39,8,-12,10,30,40,20
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Oregon,8,20,482,32,48,80,28,-2,20,30,50,30
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Utah,11,38,248,35,47,82,9,-1,20,30,50,10
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Utah,12,45,211,34,42,76,-3,-3,20,30,50,0
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,7,20,567,24,32,56,12,-8,10,30,40,20
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,New Mexico,12,39,256,38,51,89,12,12,30,30,60,0
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Nevada,6,18,807,23,35,58,17,-3,20,30,50,20
+Dec-2012,Amaretto,Beans,Coffee,Regular,Small Market,Central,Iowa,4,15,851,16,25,41,10,-10,10,30,40,20
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Iowa,9,30,1009,31,38,69,8,-2,30,30,60,10
+Dec-2012,Regular Espresso,Beans,Espresso,Regular,Small Market,East,New Hampshire,7,41,218,20,25,45,-16,-16,10,30,40,0
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Oklahoma,8,20,490,29,44,73,24,4,20,30,50,20
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Washington,7,19,567,24,32,56,13,-7,20,30,50,20
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,6,17,829,24,36,60,19,-1,20,30,50,20
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,East,New Hampshire,4,15,851,16,25,41,10,-10,10,30,40,20
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Oregon,8,19,490,29,44,73,25,-5,20,30,50,30
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,5,16,480,21,32,56,24,-6,0,30,30,30
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,Central,Ohio,7,19,859,27,39,70,30,0,10,30,40,30
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,21,54,385,56,70,134,24,4,30,30,60,20
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,Massachusetts,20,53,404,54,66,128,19,-1,30,30,60,20
+Oct-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,Massachusetts,5,17,480,21,32,56,22,-8,20,30,50,30
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,New Mexico,12,39,244,39,53,98,21,1,20,30,50,20
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Nevada,6,18,800,23,35,62,25,-5,10,30,40,30
+Oct-2013,Amaretto,Beans,Coffee,Regular,Small Market,Central,Iowa,5,16,846,21,31,55,22,-8,10,30,40,30
+Oct-2013,Regular Espresso,Beans,Espresso,Regular,Small Market,East,New Hampshire,9,43,209,25,31,60,-18,-28,10,30,40,10
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Oklahoma,5,17,480,21,32,56,22,-8,0,30,30,30
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Nevada,0,11,430,0,43,46,47,17,0,30,30,30
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,New Hampshire,12,46,240,34,43,82,-4,-24,10,30,40,20
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,5,17,846,21,31,55,21,-9,10,30,40,30
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,7,19,820,25,36,65,25,-5,10,30,40,30
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,Central,Missouri,12,46,240,34,43,82,-4,-14,10,30,40,10
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,East,New Hampshire,5,17,846,21,31,55,21,-9,20,30,50,30
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Utah,12,39,244,39,53,98,21,1,10,30,40,20
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Washington,14,36,449,46,67,120,46,16,20,30,50,30
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Nevada,6,17,802,22,34,60,25,5,20,30,50,20
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,New Mexico,12,46,-522,34,42,81,-6,4,20,30,50,-10
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Washington,7,19,570,22,30,55,16,-4,20,30,50,20
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,East,New Hampshire,12,45,243,33,41,79,-6,-6,20,30,50,0
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,8,30,1003,29,35,68,7,-3,20,30,50,10
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,7,19,823,25,38,67,28,8,20,30,50,20
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,East,New Hampshire,4,16,848,15,24,42,12,-8,10,30,40,20
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Oregon,8,20,482,32,48,85,42,12,20,30,50,30
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Utah,11,38,248,35,47,87,13,3,20,30,50,10
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Utah,12,45,211,34,42,81,-4,-4,20,30,50,0
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,7,20,567,24,32,60,18,-2,10,30,40,20
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,New Mexico,12,39,256,38,51,95,18,18,30,30,60,0
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Nevada,6,18,807,23,35,62,25,5,20,30,50,20
+Dec-2013,Amaretto,Beans,Coffee,Regular,Small Market,Central,Iowa,4,15,851,16,25,44,15,-5,10,30,40,20
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Iowa,9,30,1009,31,38,74,12,2,30,30,60,10
+Dec-2013,Regular Espresso,Beans,Espresso,Regular,Small Market,East,New Hampshire,7,41,218,20,25,48,-24,-24,10,30,40,0
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,South,Oklahoma,8,20,490,29,44,78,36,16,20,30,50,20
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Washington,7,19,567,24,32,60,19,-1,20,30,50,20
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,6,17,829,24,36,64,28,8,20,30,50,20
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,East,New Hampshire,4,15,851,16,25,44,15,-5,10,30,40,20
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Oregon,8,19,490,29,44,78,37,7,20,30,50,30
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,South,Texas,21,33,580,76,111,187,78,-2,40,80,120,80
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,17,45,405,52,71,123,26,-44,30,80,110,70
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Illinois,21,33,580,76,111,187,78,-2,50,80,130,80
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Illinois,23,55,650,72,110,182,55,5,50,80,130,50
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Missouri,20,42,1053,65,77,142,35,-35,50,80,130,70
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Missouri,8,19,833,32,47,79,28,-52,30,80,110,80
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Oklahoma,27,58,788,82,123,205,65,5,50,80,130,60
+Oct-2012,Amaretto,Beans,Coffee,Regular,Small Market,Central,Wisconsin,21,55,385,56,70,126,15,-35,40,80,120,50
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Oklahoma,28,51,-1785,91,127,218,76,6,50,80,130,70
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,18,42,329,60,99,159,57,-23,40,80,120,80
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Ohio,20,53,410,55,69,124,16,-24,70,80,150,40
+Nov-2012,Amaretto,Beans,Coffee,Regular,Major Market,Central,Ohio,19,46,411,59,79,138,33,-17,50,80,130,50
+Nov-2012,Green Tea,Leaves,Tea,Regular,Major Market,West,California,24,55,659,75,114,189,59,19,50,80,130,40
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Missouri,21,43,1060,69,81,150,38,-2,60,80,140,40
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Oregon,14,36,424,46,68,114,32,-18,50,80,130,50
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Washington,23,44,1063,75,89,164,45,5,70,80,150,40
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,Connecticut,55,84,613,61,86,147,2,-8,60,80,140,10
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,South,Louisiana,13,24,834,47,68,115,44,-16,50,80,130,60
+Nov-2012,Amaretto,Beans,Coffee,Regular,Small Market,West,Oregon,47,77,509,52,73,125,-4,-14,60,80,140,10
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Utah,17,44,380,53,71,124,27,-23,60,80,140,50
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Oregon,19,46,411,59,79,138,33,-17,50,80,130,50
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,16,40,321,53,88,141,48,-2,50,80,130,50
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,East,Connecticut,15,27,885,54,78,132,51,-9,50,80,130,60
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Ohio,17,51,422,46,57,103,6,-34,50,80,130,40
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Illinois,22,54,677,67,101,168,47,7,50,80,130,40
+Dec-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,New York,15,27,601,54,79,133,52,-8,50,80,130,60
+Dec-2012,Green Tea,Leaves,Tea,Regular,Major Market,West,California,22,54,677,67,101,168,47,-3,40,80,120,50
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Oregon,13,35,435,41,60,101,25,-25,40,80,120,50
+Dec-2012,Amaretto,Beans,Coffee,Regular,Small Market,Central,Wisconsin,24,58,403,65,80,145,22,-8,60,80,140,30
+Dec-2012,Amaretto,Beans,Coffee,Regular,Small Market,West,Oregon,42,72,521,47,65,112,-7,-27,50,80,130,20
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Utah,16,44,392,49,65,114,21,-29,50,80,130,50
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Washington,24,57,403,65,80,145,23,-7,60,80,140,30
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,25,59,619,68,85,153,26,-4,60,80,140,30
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,South,Texas,21,33,580,76,111,199,116,36,40,80,120,80
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,South,Texas,17,45,405,52,71,131,39,-31,30,80,110,70
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Illinois,21,33,580,76,111,199,116,36,50,80,130,80
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Illinois,23,55,650,72,110,194,82,32,50,80,130,50
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Missouri,20,42,1053,65,77,151,52,-18,50,80,130,70
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,Central,Missouri,8,19,833,32,47,84,42,-38,30,80,110,80
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Oklahoma,27,58,788,82,123,218,96,36,50,80,130,60
+Oct-2013,Amaretto,Beans,Coffee,Regular,Small Market,Central,Wisconsin,21,55,385,56,70,134,22,-28,40,80,120,50
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Oklahoma,28,51,-1785,91,127,232,113,43,50,80,130,70
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,18,42,329,60,99,169,85,5,40,80,120,80
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Ohio,20,53,410,55,69,132,24,-16,70,80,150,40
+Nov-2013,Amaretto,Beans,Coffee,Regular,Major Market,Central,Ohio,19,46,411,59,79,147,49,-1,50,80,130,50
+Nov-2013,Green Tea,Leaves,Tea,Regular,Major Market,West,California,24,55,659,75,114,201,88,48,50,80,130,40
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Missouri,21,43,1060,69,81,160,56,16,60,80,140,40
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Oregon,14,36,424,46,68,121,47,-3,50,80,130,50
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Washington,23,44,1063,75,89,175,67,27,70,80,150,40
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,Connecticut,55,84,613,61,86,157,3,-7,60,80,140,10
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,South,Louisiana,13,24,834,47,68,123,65,5,50,80,130,60
+Nov-2013,Amaretto,Beans,Coffee,Regular,Small Market,West,Oregon,47,77,509,52,73,133,-6,-16,60,80,140,10
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Utah,17,44,380,53,71,132,40,-10,60,80,140,50
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Oregon,19,46,411,59,79,147,49,-1,50,80,130,50
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Wisconsin,16,40,321,53,88,150,71,21,50,80,130,50
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,East,Connecticut,15,27,885,54,78,141,76,16,50,80,130,60
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Ohio,17,51,422,46,57,110,9,-31,50,80,130,40
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Illinois,22,54,677,67,101,179,70,30,50,80,130,40
+Dec-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,New York,15,27,601,54,79,142,77,17,50,80,130,60
+Dec-2013,Green Tea,Leaves,Tea,Regular,Major Market,West,California,22,54,677,67,101,179,70,20,40,80,120,50
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Oregon,13,35,435,41,60,108,37,-13,40,80,120,50
+Dec-2013,Amaretto,Beans,Coffee,Regular,Small Market,Central,Wisconsin,24,58,403,65,80,155,33,3,60,80,140,30
+Dec-2013,Amaretto,Beans,Coffee,Regular,Small Market,West,Oregon,42,72,521,47,65,119,-10,-30,50,80,130,20
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Utah,16,44,392,49,65,121,31,-19,50,80,130,50
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Washington,24,57,403,65,80,155,34,4,60,80,140,30
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,25,59,619,68,85,163,39,9,60,80,140,30
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,South,Texas,12,25,541,39,51,90,26,-54,40,90,130,80
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,South,Texas,74,96,1246,239,281,520,185,-155,350,420,770,340
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,South,Texas,34,46,915,123,179,302,133,33,70,120,190,100
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Louisiana,13,25,851,48,70,118,45,-35,70,90,160,80
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,South,Louisiana,13,24,829,48,71,119,47,-33,70,90,160,80
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,South,New Mexico,14,46,447,45,69,114,23,-57,50,110,160,80
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,South,Oklahoma,29,41,572,90,115,205,74,-66,130,160,290,140
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,New Mexico,9,43,-466,25,31,56,-12,-22,10,20,30,10
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,33,46,564,103,133,236,87,-23,80,130,210,110
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,30,64,593,79,98,177,34,-26,60,90,150,60
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,87,117,683,96,134,230,17,-23,80,120,200,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,South,Texas,69,91,1272,225,265,490,174,-56,260,320,580,230
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Major Market,South,Texas,24,55,-1050,75,114,189,59,19,50,90,140,40
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,South,Texas,33,45,930,118,172,290,127,27,90,130,220,100
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Oklahoma,25,57,798,78,119,197,62,22,60,90,150,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,South,Oklahoma,29,41,561,88,112,200,71,-19,100,130,230,90
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Oklahoma,31,54,-2003,102,143,245,89,29,80,100,180,60
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,33,45,552,101,130,231,85,5,90,120,210,80
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,4,15,848,15,24,39,9,-1,10,20,30,10
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,31,64,601,82,102,184,38,-2,70,100,170,40
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,85,115,694,94,130,224,15,-5,80,120,200,20
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,South,Texas,74,96,1321,241,284,525,188,-52,280,340,620,240
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,South,Texas,34,46,959,123,179,302,133,23,90,140,230,110
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,New Mexico,28,52,1898,92,68,160,16,-24,100,90,190,40
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Oklahoma,29,61,817,88,133,221,72,12,60,110,170,60
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,South,Louisiana,13,25,845,49,71,120,46,-24,50,90,140,70
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,South,New Mexico,15,47,462,48,74,122,27,-23,50,90,140,50
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,South,Oklahoma,26,38,551,81,104,185,66,-34,90,130,220,100
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,New Mexico,7,40,-598,20,25,45,-15,-5,10,20,30,-10
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Oklahoma,41,65,-2248,134,186,320,121,31,100,140,240,90
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,31,43,540,94,120,214,77,7,80,110,190,70
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,4,16,851,16,25,41,9,-1,10,20,30,10
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,95,125,716,105,145,250,20,-10,90,140,230,30
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,South,Texas,12,25,541,39,51,96,39,-41,40,90,130,80
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,South,Texas,74,96,1246,239,281,554,275,-65,350,420,770,340
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,South,Texas,34,46,915,123,179,322,197,97,70,120,190,100
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,Louisiana,13,25,851,48,70,126,67,-13,70,90,160,80
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,South,Louisiana,13,24,829,48,71,127,70,-10,70,90,160,80
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,South,New Mexico,14,46,447,45,69,121,34,-46,50,110,160,80
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,South,Oklahoma,29,41,572,90,115,218,110,-30,130,160,290,140
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,New Mexico,9,43,-466,25,31,60,-18,-28,10,20,30,10
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,33,46,564,103,133,251,129,19,80,130,210,110
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,30,64,593,79,98,189,50,-10,60,90,150,60
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,87,117,683,96,134,245,25,-15,80,120,200,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,South,Texas,69,91,1272,225,265,522,258,28,260,320,580,230
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Major Market,South,Texas,24,55,-1050,75,114,201,88,48,50,90,140,40
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,South,Texas,33,45,930,118,172,309,188,88,90,130,220,100
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Oklahoma,25,57,798,78,119,210,92,52,60,90,150,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,South,Oklahoma,29,41,561,88,112,213,105,15,100,130,230,90
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Oklahoma,31,54,-2003,102,143,261,132,72,80,100,180,60
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,33,45,552,101,130,246,126,46,90,120,210,80
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,4,15,848,15,24,42,13,3,10,20,30,10
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,31,64,601,82,102,196,56,16,70,100,170,40
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,85,115,694,94,130,239,22,2,80,120,200,20
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,South,Texas,74,96,1321,241,284,559,279,39,280,340,620,240
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,South,Texas,34,46,959,123,179,322,197,87,90,140,230,110
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,South,New Mexico,28,52,1898,92,68,171,24,-16,100,90,190,40
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,South,Oklahoma,29,61,817,88,133,236,107,47,60,110,170,60
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,South,Louisiana,13,25,845,49,71,128,68,-2,50,90,140,70
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,South,New Mexico,15,47,462,48,74,130,40,-10,50,90,140,50
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,South,Oklahoma,26,38,551,81,104,197,98,-2,90,130,220,100
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,New Mexico,7,40,-598,20,25,48,-22,-12,10,20,30,-10
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,South,Oklahoma,41,65,-2248,134,186,341,180,90,100,140,240,90
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,Louisiana,31,43,540,94,120,228,114,44,80,110,190,70
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,South,New Mexico,4,16,851,16,25,44,13,3,10,20,30,10
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,South,Oklahoma,95,125,716,105,145,266,30,0,90,140,230,30
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,East,Connecticut,41,73,1119,125,188,313,115,-15,100,160,260,130
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,Connecticut,54,83,606,60,84,144,1,-39,40,90,130,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,East,Connecticut,42,73,1134,130,195,325,122,-8,110,180,290,130
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,East,Connecticut,37,69,1166,115,174,289,105,-5,100,160,260,110
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,East,Connecticut,41,73,1119,125,188,334,171,41,100,160,260,130
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,East,Connecticut,54,83,606,60,84,153,1,-39,40,90,130,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,East,Connecticut,42,73,1134,130,195,346,181,51,110,180,290,130
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,East,Connecticut,37,69,1166,115,174,308,156,46,100,160,260,110
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,East,Florida,28,51,656,91,127,218,76,-14,70,110,180,90
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,East,Florida,28,56,547,86,116,202,60,-30,70,110,180,90
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,East,Florida,27,59,788,82,123,205,64,-26,60,110,170,90
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,East,Massachusetts,23,54,-3004,72,402,474,348,18,50,350,400,330
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,East,New York,91,143,2548,260,390,650,247,17,210,330,540,230
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Florida,87,116,683,96,134,230,18,-32,80,130,210,50
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,New York,113,146,3142,125,-56,69,-202,-32,110,-60,50,-170
+Oct-2012,Regular Espresso,Beans,Espresso,Regular,Major Market,East,Massachusetts,45,69,1267,161,161,322,92,-28,140,160,300,120
+Oct-2012,Regular Espresso,Beans,Espresso,Regular,Major Market,East,New York,66,91,1197,239,526,765,435,-15,210,510,720,450
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,7,19,573,22,29,51,10,-10,0,20,20,20
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,New York,96,129,1622,255,258,513,129,59,140,150,290,70
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,New York,74,95,4360,239,-75,164,-170,-70,130,-50,80,-100
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,New York,30,42,971,108,157,265,115,-25,110,170,280,140
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Major Market,East,New York,34,45,915,123,179,302,134,-26,130,190,320,160
+Oct-2012,Green Tea,Leaves,Tea,Regular,Major Market,East,New York,21,33,580,76,111,187,78,-22,80,120,200,100
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,East,Florida,31,54,666,102,143,245,89,-1,90,130,220,90
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,East,Florida,25,52,557,77,103,180,51,-9,70,100,170,60
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,East,Florida,25,56,798,78,119,197,63,3,70,100,170,60
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,East,Massachusetts,24,55,-3287,75,379,454,324,24,60,340,400,300
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,East,New York,87,138,2580,249,374,623,236,6,220,340,560,230
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Florida,85,115,694,94,130,224,15,-5,90,120,210,20
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,New York,109,142,3385,121,-60,61,-202,-12,110,-60,50,-190
+Nov-2012,Regular Espresso,Beans,Espresso,Regular,Major Market,East,Massachusetts,50,74,1283,181,182,363,108,-12,170,180,350,120
+Nov-2012,Regular Espresso,Beans,Espresso,Regular,Major Market,East,New York,59,83,933,211,464,675,381,-9,200,460,660,390
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,7,19,570,22,30,52,11,1,10,20,30,10
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,New York,93,127,1704,245,331,576,204,64,180,240,420,140
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,New York,69,91,4742,225,-65,160,-156,-36,160,-50,110,-120
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,New York,22,33,984,81,117,198,84,-6,80,120,200,90
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Major Market,East,New York,33,45,930,118,172,290,127,-3,120,170,290,130
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,East,Florida,41,64,690,134,186,320,122,12,120,160,280,110
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,East,Florida,27,54,575,83,112,195,58,-12,80,110,190,70
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,East,Florida,29,60,817,88,133,221,73,-7,70,120,190,80
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,East,Massachusetts,22,53,-3534,67,443,510,390,30,60,390,450,360
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,East,New York,97,149,2642,279,420,699,271,21,250,370,620,250
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Florida,95,124,716,105,145,250,21,-9,100,140,240,30
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,New York,122,155,3641,135,-69,66,-224,-14,130,-70,60,-210
+Dec-2012,Regular Espresso,Beans,Espresso,Regular,Major Market,East,Massachusetts,42,66,1319,153,153,306,87,7,150,140,290,80
+Dec-2012,Regular Espresso,Beans,Espresso,Regular,Major Market,East,New York,70,95,723,250,407,657,312,-8,240,400,640,320
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,New York,111,144,1727,294,453,747,309,99,220,320,540,210
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,New York,74,96,5121,241,-93,148,-189,-39,180,-80,100,-150
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,East,New York,24,35,1003,86,124,210,89,-1,90,120,210,90
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Major Market,East,New York,34,46,959,123,179,302,133,-17,120,190,310,150
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,East,Florida,28,51,656,91,127,232,113,23,70,110,180,90
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,East,Florida,28,56,547,86,116,215,89,-1,70,110,180,90
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,East,Florida,27,59,788,82,123,218,95,5,60,110,170,90
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,East,Massachusetts,23,54,-3004,72,402,505,516,186,50,350,400,330
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,East,New York,91,143,2548,260,390,693,367,137,210,330,540,230
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Florida,87,116,683,96,134,245,27,-23,80,130,210,50
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,New York,113,146,3142,125,-56,74,-300,-130,110,-60,50,-170
+Oct-2013,Regular Espresso,Beans,Espresso,Regular,Major Market,East,Massachusetts,45,69,1267,161,161,343,137,17,140,160,300,120
+Oct-2013,Regular Espresso,Beans,Espresso,Regular,Major Market,East,New York,66,91,1197,239,526,815,646,196,210,510,720,450
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,7,19,573,22,29,54,15,-5,0,20,20,20
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,New York,96,129,1622,255,258,547,191,121,140,150,290,70
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,New York,74,95,4360,239,-75,175,-252,-152,130,-50,80,-100
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,New York,30,42,971,108,157,282,171,31,110,170,280,140
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Major Market,East,New York,34,45,915,123,179,322,199,39,130,190,320,160
+Oct-2013,Green Tea,Leaves,Tea,Regular,Major Market,East,New York,21,33,580,76,111,199,116,16,80,120,200,100
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,East,Florida,31,54,666,102,143,261,132,42,90,130,220,90
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,East,Florida,25,52,557,77,103,192,76,16,70,100,170,60
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,East,Florida,25,56,798,78,119,210,93,33,70,100,170,60
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,East,Massachusetts,24,55,-3287,75,379,484,481,181,60,340,400,300
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,East,New York,87,138,2580,249,374,664,350,120,220,340,560,230
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Florida,85,115,694,94,130,239,22,2,90,120,210,20
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,New York,109,142,3385,121,-60,65,-300,-110,110,-60,50,-190
+Nov-2013,Regular Espresso,Beans,Espresso,Regular,Major Market,East,Massachusetts,50,74,1283,181,182,387,160,40,170,180,350,120
+Nov-2013,Regular Espresso,Beans,Espresso,Regular,Major Market,East,New York,59,83,933,211,464,719,565,175,200,460,660,390
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,East,Florida,7,19,570,22,30,55,16,6,10,20,30,10
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,New York,93,127,1704,245,331,614,303,163,180,240,420,140
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,New York,69,91,4742,225,-65,171,-232,-112,160,-50,110,-120
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,New York,22,33,984,81,117,211,125,35,80,120,200,90
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Major Market,East,New York,33,45,930,118,172,309,188,58,120,170,290,130
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,East,Florida,41,64,690,134,186,341,181,71,120,160,280,110
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,East,Florida,27,54,575,83,112,208,86,16,80,110,190,70
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,East,Florida,29,60,817,88,133,236,108,28,70,120,190,80
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,East,Massachusetts,22,53,-3534,67,443,543,579,219,60,390,450,360
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,East,New York,97,149,2642,279,420,745,402,152,250,370,620,250
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,Florida,95,124,716,105,145,266,31,1,100,140,240,30
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,East,New York,122,155,3641,135,-69,70,-332,-122,130,-70,60,-210
+Dec-2013,Regular Espresso,Beans,Espresso,Regular,Major Market,East,Massachusetts,42,66,1319,153,153,326,129,49,150,140,290,80
+Dec-2013,Regular Espresso,Beans,Espresso,Regular,Major Market,East,New York,70,95,723,250,407,700,463,143,240,400,640,320
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,East,New York,111,144,1727,294,453,796,459,249,220,320,540,210
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,East,New York,74,96,5121,241,-93,158,-280,-130,180,-80,100,-150
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,East,New York,24,35,1003,86,124,224,132,42,90,120,210,90
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Major Market,East,New York,34,46,959,123,179,322,197,47,120,190,310,150
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Colorado,30,41,971,108,157,265,116,-34,100,160,260,150
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Illinois,39,61,789,122,176,298,115,-45,110,190,300,160
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Colorado,23,54,650,72,110,182,56,-74,100,160,260,130
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Illinois,66,90,1755,239,239,478,149,-151,340,370,710,300
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Ohio,20,54,404,54,66,120,12,-58,70,100,170,70
+Oct-2012,Amaretto,Beans,Coffee,Regular,Major Market,Central,Colorado,34,46,915,123,179,302,133,-27,120,180,300,160
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Illinois,50,93,1132,154,213,367,120,-40,150,220,370,160
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Colorado,21,32,580,76,111,187,79,-91,100,180,280,170
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Illinois,84,117,1662,257,341,598,224,-196,370,520,890,420
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Ohio,45,69,1267,161,161,322,92,-98,230,240,470,190
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,45,69,1267,161,161,322,92,-18,120,140,260,110
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,34,46,915,123,179,302,133,-7,90,150,240,140
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,30,41,971,108,157,265,116,-4,80,130,210,120
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Ohio,27,58,788,82,123,205,65,5,50,90,140,60
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Ohio,28,51,656,91,127,218,76,-4,50,100,150,80
+Oct-2012,Green Tea,Leaves,Tea,Regular,Major Market,Central,Colorado,29,41,572,90,115,205,74,-6,50,90,140,80
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Iowa,3,15,598,10,13,23,-2,-12,0,10,10,10
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Wisconsin,28,55,547,86,116,202,61,-39,80,120,200,100
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Missouri,30,63,593,79,98,177,35,-35,70,100,170,70
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Wisconsin,87,116,683,96,134,230,18,-42,90,140,230,60
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Missouri,11,23,881,40,59,99,36,-54,50,90,140,90
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Wisconsin,24,46,1055,80,94,174,48,-72,110,140,250,120
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,84,117,1662,257,341,598,224,14,200,280,480,210
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,39,62,789,122,176,298,114,-16,90,150,240,130
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,26,49,1698,86,23,109,-26,-36,60,20,80,10
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Iowa,66,90,1755,239,239,478,149,39,170,170,340,110
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Iowa,96,129,1756,255,312,567,183,53,170,230,400,130
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Missouri,9,42,209,25,31,56,-11,-11,10,20,30,0
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Colorado,22,33,984,81,117,198,84,4,80,110,190,80
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Illinois,36,59,803,113,165,278,106,-4,110,160,270,110
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Colorado,24,56,659,75,114,189,58,-42,90,150,240,100
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Illinois,59,83,1778,211,212,423,129,-71,270,270,540,200
+Nov-2012,Amaretto,Beans,Coffee,Regular,Major Market,Central,Colorado,33,44,930,118,172,290,128,-2,110,170,280,130
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Illinois,57,100,1150,173,239,412,139,-1,170,230,400,140
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Colorado,14,25,589,50,73,123,48,-22,60,90,150,70
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Illinois,75,108,1691,228,304,532,196,-94,290,390,680,290
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Ohio,50,75,1283,181,182,363,107,-63,230,230,460,170
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,50,75,1283,181,182,363,107,7,170,160,330,100
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,33,45,930,118,172,290,127,17,110,150,260,110
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,22,33,984,81,117,198,84,4,70,110,180,80
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Ohio,25,57,798,78,119,197,62,2,60,100,160,60
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Illinois,24,55,659,75,114,189,59,9,60,90,150,50
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Ohio,31,54,666,102,143,245,89,19,80,120,200,70
+Nov-2012,Green Tea,Leaves,Tea,Regular,Major Market,Central,Colorado,29,42,561,88,112,200,70,10,70,90,160,60
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Iowa,3,16,596,10,13,23,-3,-13,0,20,20,10
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Wisconsin,25,52,557,77,103,180,51,-9,70,100,170,60
+Nov-2012,Amaretto,Beans,Coffee,Regular,Small Market,Central,Iowa,4,16,848,15,24,39,8,-2,10,20,30,10
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Missouri,31,64,601,82,102,184,38,-2,80,100,180,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Wisconsin,85,114,694,94,130,224,16,-14,90,130,220,30
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Missouri,15,27,885,54,78,132,51,-29,60,100,160,80
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Wisconsin,23,44,1063,75,89,164,45,-25,90,110,200,70
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,75,108,1691,228,304,532,196,16,210,280,490,180
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,36,58,803,113,165,278,107,7,100,150,250,100
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Iowa,59,83,1778,211,212,423,129,19,170,180,350,110
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Iowa,93,127,1784,245,300,545,173,43,200,250,450,130
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Colorado,24,36,1003,86,124,210,88,-2,80,120,200,90
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Illinois,40,63,830,127,185,312,122,-8,120,180,300,130
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Colorado,22,54,677,67,101,168,47,-33,80,130,210,80
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Illinois,70,94,1820,250,251,501,157,-83,320,320,640,240
+Dec-2012,Amaretto,Beans,Coffee,Regular,Major Market,Central,Colorado,34,45,959,123,179,302,134,4,120,170,290,130
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,Central,Illinois,73,116,1191,224,310,534,194,4,220,300,520,190
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Colorado,15,26,601,54,79,133,53,-37,60,110,170,90
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Illinois,81,113,1744,247,329,576,216,-104,310,420,730,320
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Ohio,42,66,1319,153,153,306,87,-53,190,200,390,140
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,42,66,1319,153,153,306,87,7,140,140,280,80
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,34,46,959,123,179,302,133,3,110,170,280,130
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,24,36,1003,86,124,210,88,8,80,110,190,80
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Ohio,29,61,817,88,133,221,72,2,70,110,180,70
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Ohio,41,65,690,134,186,320,121,31,110,150,260,90
+Dec-2012,Green Tea,Leaves,Tea,Regular,Major Market,Central,Colorado,26,38,551,81,104,185,66,6,60,90,150,60
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Iowa,3,15,594,10,14,24,-1,-11,0,20,20,10
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Wisconsin,27,55,575,83,112,195,57,-13,80,110,190,70
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Missouri,25,59,619,68,85,153,26,-14,60,90,150,40
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,Central,Wisconsin,95,125,716,105,145,250,20,-10,100,140,240,30
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Missouri,14,25,898,50,73,123,48,-22,60,90,150,70
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Wisconsin,24,46,1079,80,96,176,50,-30,100,120,220,80
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,81,113,1744,247,329,576,216,16,230,300,530,200
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,40,62,830,127,185,312,123,3,120,170,290,120
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Iowa,70,95,1820,250,251,501,156,36,210,200,410,120
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Iowa,111,144,1838,294,360,654,216,46,240,300,540,170
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Missouri,7,41,218,20,25,45,-16,-6,10,20,30,-10
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Colorado,30,41,971,108,157,282,172,22,100,160,260,150
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Illinois,39,61,789,122,176,318,171,11,110,190,300,160
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Colorado,23,54,650,72,110,194,83,-47,100,160,260,130
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Illinois,66,90,1755,239,239,509,221,-79,340,370,710,300
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Ohio,20,54,404,54,66,128,18,-52,70,100,170,70
+Oct-2013,Amaretto,Beans,Coffee,Regular,Major Market,Central,Colorado,34,46,915,123,179,322,197,37,120,180,300,160
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Illinois,50,93,1132,154,213,391,178,18,150,220,370,160
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Colorado,21,32,580,76,111,199,117,-53,100,180,280,170
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Illinois,84,117,1662,257,341,637,332,-88,370,520,890,420
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Ohio,45,69,1267,161,161,343,137,-53,230,240,470,190
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,45,69,1267,161,161,343,137,27,120,140,260,110
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,34,46,915,123,179,322,197,57,90,150,240,140
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,30,41,971,108,157,282,172,52,80,130,210,120
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Ohio,27,58,788,82,123,218,96,36,50,90,140,60
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Ohio,28,51,656,91,127,232,113,33,50,100,150,80
+Oct-2013,Green Tea,Leaves,Tea,Regular,Major Market,Central,Colorado,29,41,572,90,115,218,110,30,50,90,140,80
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Iowa,3,15,598,10,13,25,-3,-13,0,10,10,10
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Wisconsin,28,55,547,86,116,215,91,-9,80,120,200,100
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Missouri,30,63,593,79,98,189,52,-18,70,100,170,70
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Wisconsin,87,116,683,96,134,245,27,-33,90,140,230,60
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Missouri,11,23,881,40,59,106,53,-37,50,90,140,90
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Wisconsin,24,46,1055,80,94,185,71,-49,110,140,250,120
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,84,117,1662,257,341,637,332,122,200,280,480,210
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,39,62,789,122,176,318,169,39,90,150,240,130
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Missouri,26,49,1698,86,23,116,-39,-49,60,20,80,10
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Iowa,66,90,1755,239,239,509,221,111,170,170,340,110
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Iowa,96,129,1756,255,312,604,272,142,170,230,400,130
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Missouri,9,42,209,25,31,60,-16,-16,10,20,30,0
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Colorado,22,33,984,81,117,211,125,45,80,110,190,80
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Illinois,36,59,803,113,165,296,157,47,110,160,270,110
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Colorado,24,56,659,75,114,201,86,-14,90,150,240,100
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Illinois,59,83,1778,211,212,451,191,-9,270,270,540,200
+Nov-2013,Amaretto,Beans,Coffee,Regular,Major Market,Central,Colorado,33,44,930,118,172,309,190,60,110,170,280,130
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Illinois,57,100,1150,173,239,439,206,66,170,230,400,140
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Colorado,14,25,589,50,73,131,71,1,60,90,150,70
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Illinois,75,108,1691,228,304,567,291,1,290,390,680,290
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Ohio,50,75,1283,181,182,387,159,-11,230,230,460,170
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,50,75,1283,181,182,387,159,59,170,160,330,100
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,33,45,930,118,172,309,188,78,110,150,260,110
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,22,33,984,81,117,211,125,45,70,110,180,80
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Ohio,25,57,798,78,119,210,92,32,60,100,160,60
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Illinois,24,55,659,75,114,201,88,38,60,90,150,50
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Ohio,31,54,666,102,143,261,132,62,80,120,200,70
+Nov-2013,Green Tea,Leaves,Tea,Regular,Major Market,Central,Colorado,29,42,561,88,112,213,104,44,70,90,160,60
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Iowa,3,16,596,10,13,25,-4,-14,0,20,20,10
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Wisconsin,25,52,557,77,103,192,76,16,70,100,170,60
+Nov-2013,Amaretto,Beans,Coffee,Regular,Small Market,Central,Iowa,4,16,848,15,24,42,12,2,10,20,30,10
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Missouri,31,64,601,82,102,196,56,16,80,100,180,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Wisconsin,85,114,694,94,130,239,24,-6,90,130,220,30
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Missouri,15,27,885,54,78,141,76,-4,60,100,160,80
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Wisconsin,23,44,1063,75,89,175,67,-3,90,110,200,70
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,75,108,1691,228,304,567,291,111,210,280,490,180
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,36,58,803,113,165,296,159,59,100,150,250,100
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Iowa,59,83,1778,211,212,451,191,81,170,180,350,110
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Iowa,93,127,1784,245,300,581,257,127,200,250,450,130
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Colorado,24,36,1003,86,124,224,131,41,80,120,200,90
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,Central,Illinois,40,63,830,127,185,332,181,51,120,180,300,130
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Colorado,22,54,677,67,101,179,70,-10,80,130,210,80
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,Central,Illinois,70,94,1820,250,251,534,233,-7,320,320,640,240
+Dec-2013,Amaretto,Beans,Coffee,Regular,Major Market,Central,Colorado,34,45,959,123,179,322,199,69,120,170,290,130
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,Central,Illinois,73,116,1191,224,310,569,288,98,220,300,520,190
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Colorado,15,26,601,54,79,142,79,-11,60,110,170,90
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Illinois,81,113,1744,247,329,614,321,1,310,420,730,320
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,Central,Ohio,42,66,1319,153,153,326,129,-11,190,200,390,140
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Colorado,42,66,1319,153,153,326,129,49,140,140,280,80
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,34,46,959,123,179,322,197,67,110,170,280,130
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Major Market,Central,Illinois,24,36,1003,86,124,224,131,51,80,110,190,80
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,Central,Ohio,29,61,817,88,133,236,107,37,70,110,180,70
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Major Market,Central,Ohio,41,65,690,134,186,341,180,90,110,150,260,90
+Dec-2013,Green Tea,Leaves,Tea,Regular,Major Market,Central,Colorado,26,38,551,81,104,197,98,38,60,90,150,60
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Iowa,3,15,594,10,14,26,-1,-11,0,20,20,10
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,Central,Wisconsin,27,55,575,83,112,208,85,15,80,110,190,70
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Missouri,25,59,619,68,85,163,39,-1,60,90,150,40
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,Central,Wisconsin,95,125,716,105,145,266,30,0,100,140,240,30
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Missouri,14,25,898,50,73,131,71,1,60,90,150,70
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,Central,Wisconsin,24,46,1079,80,96,188,74,-6,100,120,220,80
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,81,113,1744,247,329,614,321,121,230,300,530,200
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,Central,Iowa,40,62,830,127,185,332,183,63,120,170,290,120
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,Central,Iowa,70,95,1820,250,251,534,232,112,210,200,410,120
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Iowa,111,144,1838,294,360,697,321,151,240,300,540,170
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,Central,Missouri,7,41,218,20,25,48,-24,-14,10,20,30,-10
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,West,California,50,93,3654,154,-24,130,-117,-17,220,-30,190,-100
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,West,California,84,116,1662,257,341,598,225,-15,230,320,550,240
+Oct-2012,Amaretto,Beans,Coffee,Regular,Major Market,West,California,39,61,2555,122,-13,109,-74,-14,170,-20,150,-60
+Oct-2012,Colombian,Beans,Coffee,Regular,Major Market,West,California,91,143,2548,260,390,650,247,-223,380,580,960,470
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Major Market,West,California,66,90,1755,239,239,478,149,-11,210,220,430,160
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,West,California,113,146,898,125,173,298,27,-23,110,160,270,50
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,West,California,30,42,971,108,157,265,115,-5,80,130,210,120
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,West,California,74,95,1246,239,281,520,186,16,190,220,410,170
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Major Market,West,California,34,45,915,123,179,302,134,54,50,90,140,80
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Oregon,13,35,419,43,64,107,29,-51,50,100,150,80
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Utah,30,64,593,79,98,177,34,-86,100,160,260,120
+Oct-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Washington,87,117,683,96,134,230,17,-83,140,190,330,100
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Oregon,45,70,1267,161,161,322,91,-19,140,150,290,110
+Oct-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Washington,24,46,1055,80,94,174,48,-32,60,90,150,80
+Oct-2012,Amaretto,Beans,Coffee,Regular,Small Market,West,Oregon,46,76,503,51,71,122,-5,-55,70,100,170,50
+Oct-2012,Amaretto,Beans,Coffee,Regular,Small Market,West,Utah,20,41,1053,65,77,142,36,-54,90,110,200,90
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Oregon,19,63,463,60,84,144,21,-69,80,130,210,90
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Utah,15,42,375,47,64,111,22,-58,50,100,150,80
+Oct-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Washington,21,43,438,68,99,167,56,-54,90,140,230,110
+Oct-2012,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Washington,7,19,573,22,29,51,10,-10,10,20,30,20
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Nevada,5,17,846,21,31,52,14,-6,10,20,30,20
+Oct-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Utah,33,46,564,103,133,236,87,-23,80,130,210,110
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,113,147,898,125,173,298,26,-34,90,150,240,60
+Oct-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,41,73,1119,125,188,313,115,-15,90,160,250,130
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,50,93,1132,154,213,367,120,0,120,170,290,120
+Oct-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,29,42,572,90,115,205,73,-17,60,100,160,90
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,39,62,789,122,176,298,114,-16,90,150,240,130
+Oct-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,26,50,1698,86,23,109,-27,-27,60,20,80,0
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Nevada,84,117,1662,257,341,598,224,94,110,180,290,130
+Oct-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Oregon,5,16,480,21,32,53,16,-4,0,20,20,20
+Oct-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Nevada,66,90,1755,239,239,478,149,69,110,120,230,80
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Nevada,96,129,7058,255,-255,21,-363,-193,110,-110,0,-170
+Oct-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Utah,9,43,209,25,31,56,-12,-22,0,20,20,10
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,West,California,57,100,3909,173,-27,146,-127,3,200,-30,170,-130
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,West,California,75,107,1691,228,304,532,197,7,220,290,510,190
+Nov-2012,Amaretto,Beans,Coffee,Regular,Major Market,West,California,36,59,2758,113,3,116,-56,-6,130,0,130,-50
+Nov-2012,Colombian,Beans,Coffee,Regular,Major Market,West,California,87,139,2580,249,374,623,235,-75,290,450,740,310
+Nov-2012,Caffe Latte,Beans,Espresso,Regular,Major Market,West,California,59,83,1778,211,212,423,129,-11,200,210,410,140
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,West,California,109,142,912,121,168,289,26,-14,110,170,280,40
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,West,California,22,33,984,81,117,198,84,4,70,110,180,80
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,West,California,69,91,1272,225,265,490,174,14,210,240,450,160
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Major Market,West,California,33,44,930,118,172,290,128,18,80,130,210,110
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Utah,31,64,601,82,102,184,38,-22,90,120,210,60
+Nov-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Washington,85,114,694,94,130,224,16,-24,110,150,260,40
+Nov-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Oregon,50,74,1283,181,182,363,108,-12,170,180,350,120
+Nov-2012,Amaretto,Beans,Coffee,Regular,Small Market,West,Utah,21,42,1060,69,81,150,39,-11,80,90,170,50
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Oregon,17,61,470,53,75,128,14,-26,60,90,150,40
+Nov-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Washington,20,43,446,63,93,156,50,-20,70,110,180,70
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Nevada,4,15,848,15,24,39,9,-1,10,20,30,10
+Nov-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Utah,33,45,552,101,130,231,85,-5,90,130,220,90
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,109,142,912,121,168,289,26,6,110,150,260,20
+Nov-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,42,73,1134,130,195,325,122,2,120,180,300,120
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,57,101,1150,173,239,412,138,8,160,220,380,130
+Nov-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,29,42,561,88,112,200,70,0,80,100,180,70
+Nov-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,36,58,803,113,165,278,107,7,100,150,250,100
+Nov-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Nevada,75,108,1691,228,304,532,196,56,160,220,380,140
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Nevada,59,84,1778,211,212,423,128,48,150,150,300,80
+Nov-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Oregon,25,57,798,78,119,197,62,12,50,90,140,50
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Nevada,93,127,7653,245,-245,32,-340,-60,180,-180,0,-280
+Nov-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Oregon,31,54,666,102,143,245,89,19,70,100,170,70
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,West,California,73,117,4216,224,-32,192,-149,1,260,-40,220,-150
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Major Market,West,California,81,113,1744,247,329,576,216,6,240,310,550,210
+Dec-2012,Amaretto,Beans,Coffee,Regular,Major Market,West,California,40,63,2947,127,-25,102,-88,2,150,-30,120,-90
+Dec-2012,Colombian,Beans,Coffee,Regular,Major Market,West,California,97,149,2642,279,420,699,271,-79,330,500,830,350
+Dec-2012,Caffe Latte,Beans,Espresso,Regular,Major Market,West,California,70,94,1820,250,251,501,157,-3,240,240,480,160
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Major Market,West,California,122,156,940,135,187,322,31,-9,130,180,310,40
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,West,California,24,35,1003,86,124,210,89,9,80,110,190,80
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Major Market,West,California,74,96,1321,241,284,525,188,18,220,260,480,170
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Major Market,West,California,34,45,959,123,179,302,134,24,90,130,220,110
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Utah,25,59,619,68,85,153,26,-24,80,100,180,50
+Dec-2012,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Washington,95,125,716,105,145,250,20,-30,120,170,290,50
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Oregon,42,66,1319,153,153,306,87,7,150,140,290,80
+Dec-2012,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Washington,24,45,1079,80,96,176,51,-9,70,100,170,60
+Dec-2012,Amaretto,Beans,Coffee,Regular,Small Market,West,Utah,19,40,1075,63,76,139,36,-14,70,90,160,50
+Dec-2012,Colombian,Beans,Coffee,Regular,Small Market,West,Washington,23,46,461,72,104,176,58,-22,80,120,200,80
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Nevada,4,15,851,16,25,41,10,0,10,20,30,10
+Dec-2012,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Utah,31,43,540,94,120,214,77,7,90,110,200,70
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,122,155,940,135,187,322,32,2,120,170,290,30
+Dec-2012,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,37,69,1166,115,174,289,105,-5,100,160,260,110
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,73,116,1191,224,310,534,194,24,210,280,490,170
+Dec-2012,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,26,38,551,81,104,185,66,-4,70,100,170,70
+Dec-2012,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,40,63,830,127,185,312,122,2,120,170,290,120
+Dec-2012,Darjeeling,Leaves,Tea,Regular,Small Market,West,Nevada,81,114,1744,247,329,576,215,65,180,240,420,150
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Nevada,70,94,1820,250,251,501,157,57,180,180,360,100
+Dec-2012,Earl Grey,Leaves,Tea,Regular,Small Market,West,Oregon,29,60,817,88,133,221,73,13,60,100,160,60
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Nevada,111,145,8252,294,-294,31,-408,-88,210,-210,0,-320
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Oregon,41,65,690,134,186,320,121,21,90,140,230,100
+Dec-2012,Green Tea,Leaves,Tea,Regular,Small Market,West,Utah,7,40,218,20,25,45,-15,-15,10,20,30,0
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,West,California,50,93,3654,154,-24,139,-174,-74,220,-30,190,-100
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,West,California,84,116,1662,257,341,637,334,94,230,320,550,240
+Oct-2013,Amaretto,Beans,Coffee,Regular,Major Market,West,California,39,61,2555,122,-13,116,-110,-50,170,-20,150,-60
+Oct-2013,Colombian,Beans,Coffee,Regular,Major Market,West,California,91,143,2548,260,390,693,367,-103,380,580,960,470
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Major Market,West,California,66,90,1755,239,239,509,221,61,210,220,430,160
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,West,California,113,146,898,125,173,318,40,-10,110,160,270,50
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,West,California,30,42,971,108,157,282,171,51,80,130,210,120
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,West,California,74,95,1246,239,281,554,276,106,190,220,410,170
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Major Market,West,California,34,45,915,123,179,322,199,119,50,90,140,80
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Oregon,13,35,419,43,64,114,43,-37,50,100,150,80
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Utah,30,64,593,79,98,189,50,-70,100,160,260,120
+Oct-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Washington,87,117,683,96,134,245,25,-75,140,190,330,100
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Oregon,45,70,1267,161,161,343,135,25,140,150,290,110
+Oct-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Washington,24,46,1055,80,94,185,71,-9,60,90,150,80
+Oct-2013,Amaretto,Beans,Coffee,Regular,Small Market,West,Oregon,46,76,503,51,71,130,-7,-57,70,100,170,50
+Oct-2013,Amaretto,Beans,Coffee,Regular,Small Market,West,Utah,20,41,1053,65,77,151,53,-37,90,110,200,90
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Oregon,19,63,463,60,84,153,31,-59,80,130,210,90
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Utah,15,42,375,47,64,118,33,-47,50,100,150,80
+Oct-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Washington,21,43,438,68,99,178,83,-27,90,140,230,110
+Oct-2013,Caffe Latte,Beans,Espresso,Regular,Small Market,West,Washington,7,19,573,22,29,54,15,-5,10,20,30,20
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Nevada,5,17,846,21,31,55,21,1,10,20,30,20
+Oct-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Utah,33,46,564,103,133,251,129,19,80,130,210,110
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,113,147,898,125,173,318,39,-21,90,150,240,60
+Oct-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,41,73,1119,125,188,334,171,41,90,160,250,130
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,50,93,1132,154,213,391,178,58,120,170,290,120
+Oct-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,29,42,572,90,115,218,108,18,60,100,160,90
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,39,62,789,122,176,318,169,39,90,150,240,130
+Oct-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Utah,26,50,1698,86,23,116,-40,-40,60,20,80,0
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Nevada,84,117,1662,257,341,637,332,202,110,180,290,130
+Oct-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Oregon,5,16,480,21,32,56,24,4,0,20,20,20
+Oct-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Nevada,66,90,1755,239,239,509,221,141,110,120,230,80
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Nevada,96,129,7058,255,-255,22,-539,-369,110,-110,0,-170
+Oct-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Utah,9,43,209,25,31,60,-18,-28,0,20,20,10
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,West,California,57,100,3909,173,-27,156,-188,-58,200,-30,170,-130
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,West,California,75,107,1691,228,304,567,292,102,220,290,510,190
+Nov-2013,Amaretto,Beans,Coffee,Regular,Major Market,West,California,36,59,2758,113,3,124,-83,-33,130,0,130,-50
+Nov-2013,Colombian,Beans,Coffee,Regular,Major Market,West,California,87,139,2580,249,374,664,349,39,290,450,740,310
+Nov-2013,Caffe Latte,Beans,Espresso,Regular,Major Market,West,California,59,83,1778,211,212,451,191,51,200,210,410,140
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,West,California,109,142,912,121,168,308,39,-1,110,170,280,40
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,West,California,22,33,984,81,117,211,125,45,70,110,180,80
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,West,California,69,91,1272,225,265,522,258,98,210,240,450,160
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Major Market,West,California,33,44,930,118,172,309,190,80,80,130,210,110
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Utah,31,64,601,82,102,196,56,-4,90,120,210,60
+Nov-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Washington,85,114,694,94,130,239,24,-16,110,150,260,40
+Nov-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Oregon,50,74,1283,181,182,387,160,40,170,180,350,120
+Nov-2013,Amaretto,Beans,Coffee,Regular,Small Market,West,Utah,21,42,1060,69,81,160,58,8,80,90,170,50
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Oregon,17,61,470,53,75,136,21,-19,60,90,150,40
+Nov-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Washington,20,43,446,63,93,166,74,4,70,110,180,70
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Nevada,4,15,848,15,24,42,13,3,10,20,30,10
+Nov-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Utah,33,45,552,101,130,246,126,36,90,130,220,90
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,109,142,912,121,168,308,39,19,110,150,260,20
+Nov-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,42,73,1134,130,195,346,181,61,120,180,300,120
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,57,101,1150,173,239,439,205,75,160,220,380,130
+Nov-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,29,42,561,88,112,213,104,34,80,100,180,70
+Nov-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,36,58,803,113,165,296,159,59,100,150,250,100
+Nov-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Nevada,75,108,1691,228,304,567,291,151,160,220,380,140
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Nevada,59,84,1778,211,212,451,190,110,150,150,300,80
+Nov-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Oregon,25,57,798,78,119,210,92,42,50,90,140,50
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Nevada,93,127,7653,245,-245,34,-505,-225,180,-180,0,-280
+Nov-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Oregon,31,54,666,102,143,261,132,62,70,100,170,70
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Major Market,West,California,73,117,4216,224,-32,205,-221,-71,260,-40,220,-150
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Major Market,West,California,81,113,1744,247,329,614,321,111,240,310,550,210
+Dec-2013,Amaretto,Beans,Coffee,Regular,Major Market,West,California,40,63,2947,127,-25,109,-131,-41,150,-30,120,-90
+Dec-2013,Colombian,Beans,Coffee,Regular,Major Market,West,California,97,149,2642,279,420,745,402,52,330,500,830,350
+Dec-2013,Caffe Latte,Beans,Espresso,Regular,Major Market,West,California,70,94,1820,250,251,534,233,73,240,240,480,160
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Major Market,West,California,122,156,940,135,187,343,46,6,130,180,310,40
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Major Market,West,California,24,35,1003,86,124,224,132,52,80,110,190,80
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Major Market,West,California,74,96,1321,241,284,559,279,109,220,260,480,170
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Major Market,West,California,34,45,959,123,179,322,199,89,90,130,220,110
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Utah,25,59,619,68,85,163,39,-11,80,100,180,50
+Dec-2013,Decaf Irish Cream,Beans,Coffee,Decaf,Small Market,West,Washington,95,125,716,105,145,266,30,-20,120,170,290,50
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Oregon,42,66,1319,153,153,326,129,49,150,140,290,80
+Dec-2013,Decaf Espresso,Beans,Espresso,Decaf,Small Market,West,Washington,24,45,1079,80,96,188,76,16,70,100,170,60
+Dec-2013,Amaretto,Beans,Coffee,Regular,Small Market,West,Utah,19,40,1075,63,76,148,53,3,70,90,160,50
+Dec-2013,Colombian,Beans,Coffee,Regular,Small Market,West,Washington,23,46,461,72,104,188,86,6,80,120,200,80
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Nevada,4,15,851,16,25,44,15,5,10,20,30,10
+Dec-2013,Caffe Mocha,Beans,Espresso,Regular,Small Market,West,Utah,31,43,540,94,120,228,114,44,90,110,200,70
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,122,155,940,135,187,343,47,17,120,170,290,30
+Dec-2013,Chamomile,Leaves,Herbal Tea,Decaf,Small Market,West,Washington,37,69,1166,115,174,308,156,46,100,160,260,110
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,73,116,1191,224,310,569,288,118,210,280,490,170
+Dec-2013,Lemon,Leaves,Herbal Tea,Decaf,Small Market,West,Oregon,26,38,551,81,104,197,98,28,70,100,170,70
+Dec-2013,Mint,Leaves,Herbal Tea,Decaf,Small Market,West,Nevada,40,63,830,127,185,332,181,61,120,170,290,120
+Dec-2013,Darjeeling,Leaves,Tea,Regular,Small Market,West,Nevada,81,114,1744,247,329,614,319,169,180,240,420,150
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Nevada,70,94,1820,250,251,534,233,133,180,180,360,100
+Dec-2013,Earl Grey,Leaves,Tea,Regular,Small Market,West,Oregon,29,60,817,88,133,236,108,48,60,100,160,60
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Nevada,111,145,8252,294,-294,33,-605,-285,210,-210,0,-320
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Oregon,41,65,690,134,186,341,180,80,90,140,230,100
+Dec-2013,Green Tea,Leaves,Tea,Regular,Small Market,West,Utah,7,40,218,20,25,48,-22,-22,10,20,30,0

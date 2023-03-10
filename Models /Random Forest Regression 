@@ -1,0 +1,35 @@
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
+from sklearn.model_selection import train_test_split 
+import pickle
+
+#Split the date into training and testing sets
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+
+#Instantiating the model
+model = RandomForestRegressor(n_estimators=100,random_state=42)
+
+#Fitting the model to the training data
+model.fit(X_train, y_train)
+
+# save the model with pickle
+Random_Forest_regression = 'model.pkl'
+pickle.dump(model, open(Random_Forest_regression, 'wb'))
+
+#making predictions on the test set
+y_pred = model.predict(X_test)
+
+#Calculating the mean absolute error
+mae = mean_absolute_error(y_test, y_pred)
+r2 = r2_score(y_test, y_pred)
+rmse = mean_squared_error(y_test, y_pred, squared=False)
+mse = mean_squared_error(y_test, y_pred, squared=True)
+
+
+print('Random Forest Regression Perfomance Metrics')
+print ('MAE:', mae)
+print ('R2:', r2)
+print ('RMSE', rmse)
+print('MSE',mse )
