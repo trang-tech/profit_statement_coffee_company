@@ -141,8 +141,8 @@ with modelTraining:
 
 
 
-	X = coffee.drop('target_profit', axis=1)
-	y = coffee['target_profit']
+	X = coffee.drop('profit', axis=1)
+	y = coffee['profit']
 
 	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
